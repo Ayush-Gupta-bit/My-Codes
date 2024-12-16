@@ -1,2 +1,0 @@
-This is my test file 2 for learning Git and Github
-Adding more content to test file 2
